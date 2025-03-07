@@ -1,0 +1,7 @@
+{
+  "name": "tipCalculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
