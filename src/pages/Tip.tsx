@@ -54,12 +54,12 @@ const Tip = () => {
             </IonSelect>
           </IonItem>
         </IonList>
-        <p>
+        <p className='ion-padding'>
           <IonText>
             Total: {total.toFixed(2)}
           </IonText>
         </p>
-        <p>
+        <p className='ion-padding'>
           <IonText>
             Total per person: {totalPerPerson.toFixed(2)}
           </IonText>

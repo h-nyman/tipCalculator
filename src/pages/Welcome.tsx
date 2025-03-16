@@ -11,7 +11,7 @@ const Welcome: React.FC = () => {
                     <IonTitle>Welcome</IonTitle>
                 </IonToolbar>
             </IonHeader>
-            <IonContent fullscreen>
+            <IonContent fullscreen className='ion-padding'>
                 <IonHeader collapse="condense">
                     <IonToolbar>
                         <IonTitle size="large">Welcome</IonTitle>
