@@ -1,5 +1,4 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonMenu, IonMenuButton, IonButtons, IonList, IonItem, IonMenuToggle, IonButton, IonText, IonLabel, IonIcon } from '@ionic/react';
-import { homeOutline, calculatorOutline } from "ionicons/icons";
+import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonMenuButton, IonButtons, IonButton, IonText } from '@ionic/react';
 
 const Welcome: React.FC = () => {
     return (

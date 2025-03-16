@@ -1,4 +1,4 @@
-import { IonContent, IonHeader, IonInput, IonItem, IonList, IonPage, IonSelect, IonSelectOption, IonText, IonTitle, IonToolbar, IonMenu, IonMenuToggle, IonButtons, IonMenuButton } from '@ionic/react';
+import { IonContent, IonHeader, IonInput, IonItem, IonList, IonPage, IonSelect, IonSelectOption, IonText, IonTitle, IonToolbar, IonButtons, IonMenuButton } from '@ionic/react';
 import './Home.css';
 import { useState } from 'react';
 
@@ -17,7 +17,7 @@ const Tip = () => {
         <IonHeader>
           <IonToolbar>
             <IonButtons slot="start">
-              <IonMenuButton /> 
+              <IonMenuButton />
             </IonButtons>
             <IonTitle>Tip Calculator</IonTitle>
           </IonToolbar>
